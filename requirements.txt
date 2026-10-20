@@ -1,0 +1,6 @@
+aisuite[openai]
+openai
+pandas
+python-dotenv
+ipykernel
+tabulate

@@ -1,0 +1,13 @@
+# API credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / virtual environments
+.venv/
+venv/
